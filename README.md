@@ -1,7 +1,7 @@
 # リボルバーシックス Revolver Six
 
 <p align="center">
-  <img src="Assets/UI/RevolverSixLogo.png" width="700" alt="Revolver Vi">
+  <img src="RevolverSixLogo.png" width="700" alt="Revolver Vi">
 </p>
 
 Unity で個人開発した2.5D横スクロールアクション
