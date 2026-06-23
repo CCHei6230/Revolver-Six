@@ -60,3 +60,6 @@ https://mebiusbox.github.io/contents/EffectTextureMaker/
 
 Kenny UI
 https://kenney.nl/assets/tag:interface
+
+Cartoon FX Remaster Free
+https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-remaster-free-109565?srsltid=AfmBOoqO7Sc-Cb4cPw8JUpUcf_f7Bqcx-WchL1zQv8J7hGChfqhgt9eQ
