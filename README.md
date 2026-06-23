@@ -4,7 +4,7 @@
   <img src="RevolverSixLogo.png" width="700" alt="Revolver Vi">
 </p>
 
-Unity で個人開発した2.5D横スクロールアクション
+> ※ 本リポジトリはコード閲覧用です（C# スクリプトのみを公開）。
 
 | | |
 |---|---|
