@@ -44,3 +44,19 @@ https://youtu.be/E01IR12es7c
 ## 制作者
 
 NZM — [itch.io](https://nzm6230.itch.io) ・ [GitHub](https://github.com/CCHei6230) 
+
+## 使用アセット
+DOTween (HOTween v2)
+https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676
+
+Eflatun.SceneReference
+https://github.com/starikcetin/Eflatun.SceneReference
+
+MK Toon - Stylized Shader
+https://assetstore.unity.com/packages/vfx/shaders/mk-toon-stylized-shader-178415?srsltid=AfmBOorCeIdDog2GbOfePAqS8u79dWM0ap_ZEi2FnTykCrMgYYOtPuxO
+
+EffectTextureMaker
+https://mebiusbox.github.io/contents/EffectTextureMaker/
+
+Kenny UI
+https://kenney.nl/assets/tag:interface
